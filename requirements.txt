@@ -1,0 +1,8 @@
+numpy
+flask
+keras
+Pillow
+transformers
+torch
+tensorflow
+gunicorn
